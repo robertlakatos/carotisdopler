@@ -1,0 +1,7 @@
+{
+    "version" : "0120200205",
+    "source" : "sources",
+    "output" : "outputs",
+    "templates" : "setups/templates.json",
+    "n_jobs" : 1
+}

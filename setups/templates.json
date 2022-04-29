@@ -1,0 +1,151 @@
+[
+    {
+		"Sablon az.": "IDY1ACCO",
+		"Sablon szöveg megnevezés": "Arteria carotis communis plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria carotis communisban ... % stenosist okozó echogen plaque.",
+        "Minta prefix" : "Az arteria carotis communisban",
+        "Minta postfix" : "% stenosist okozó echogen plaque.",
+        "Minta prefix hossza" : 31
+    },
+    {
+        "Sablon az.": "IDY1ACCO",
+        "Sablon szöveg megnevezés": "Arteria carotis communis plaque ",
+        "Sablon ktg": "",
+        "Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria carotis communisban ... % stenosist okozó meszes plaque.",
+        "Minta prefix": "Az arteria carotis communisban",
+        "Minta postfix": "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza": 31
+    },
+    {
+        "Sablon az.": "IDY1ACCO",
+        "Sablon szöveg megnevezés": "Arteria carotis communis plaque ",
+        "Sablon ktg": "",
+        "Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria carotis communisban kb ... % stenosist okozó meszes plaque.",
+        "Minta prefix": "Az arteria carotis communisban kb.",
+        "Minta postfix": "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza": 35
+    },
+    {
+		"Sablon az.": "IDY2ACIN",
+		"Sablon szöveg megnevezés": "Arteria carotis interna plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria carotis interna elején ... % stenosist okozó echogen plaque.",
+        "Minta prefix" : "Az arteria carotis interna elején",
+        "Minta postfix" : "% stenosist okozó echogen plaque.",
+        "Minta prefix hossza" : 34
+    },
+    {
+		"Sablon az.": "IDY2ACIN",
+		"Sablon szöveg megnevezés": "Arteria carotis interna plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria carotis interna elején ... % stenosist okozó meszes plaque.",
+        "Minta prefix" : "Az arteria carotis interna elején",
+        "Minta postfix" : "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza" : 34
+    },
+    {
+		"Sablon az.": "IDY3CARO",
+		"Sablon szöveg megnevezés": "Carotis oszlásban meszes plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis oszlásban (bifurcatioban) ... % stenosist okozó echogen plaque.",
+        "Minta prefix" : "A carotis oszlásban (bifurcatioban)",
+        "Minta postfix" : "% stenosist okozó echogen plaque.",
+        "Minta prefix hossza" : 36
+    },
+    {
+		"Sablon az.": "IDY3CARO",
+		"Sablon szöveg megnevezés": "Carotis oszlásban meszes plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis oszlásban (bifurcatioban) ... % stenosist okozó meszes plaque.",
+        "Minta prefix" : "A carotis oszlásban (bifurcatioban)",
+        "Minta postfix" : "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza" : 36
+    },
+    {
+		"Sablon az.": "IDY3CARO",
+		"Sablon szöveg megnevezés": "Carotis oszlásban meszes plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis oszlásban (bifurcatioban) kb. ... % stenosist okozó meszes plaque.",
+        "Minta prefix" : "A carotis oszlásban (bifurcatioban) kb.",
+        "Minta postfix" : "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza" : 40
+    },
+    {
+		"Sablon az.": "IDY3CARO",
+		"Sablon szöveg megnevezés": "Carotis oszlásban meszes plaque ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis oszlásban (bifurcatioban) ... % stenosist okozó echogen plaque.",
+        "Minta prefix" : "A carotis oszlásban (bifurcatioban)",
+        "Minta postfix" : "% stenosist okozó kp. echogen plaque.",
+        "Minta prefix hossza" : 36
+    },
+	{
+		"Sablon az.": "IDY3EXT1",
+		"Sablon szöveg megnevezés": "Carotis externa ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis externában ... % stenosist okozó echogen plaque.",
+        "Minta prefix" : "A carotis externában",
+        "Minta postfix" : "% stenosist okozó echogen plaque.",
+        "Minta prefix hossza" : 21
+    },
+    {
+		"Sablon az.": "IDY3EXT1",
+		"Sablon szöveg megnevezés": "Carotis externa ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A carotis externában ... % stenosist okozó meszes plaque.",
+        "Minta prefix" : "A carotis externában",
+        "Minta postfix" : "% stenosist okozó meszes plaque.",
+        "Minta prefix hossza" : 21
+    },
+    {
+		"Sablon az.": "IDY6JAVA",
+		"Sablon szöveg megnevezés": "jobb arteria vertebralis ár. seb",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A jobb arteria vertebralisban az áramlási sebesség a norm. érték alsó határának ... %-a.",
+        "Minta prefix" : "A jobb arteria vertebralisban az áramlási sebesség a norm. érték alsó határának",
+        "Minta postfix" : "%-a.",
+        "Minta prefix hossza" : 80
+	},
+	{
+		"Sablon az.": "IDY7BAVA",
+		"Sablon szöveg megnevezés": "bal arteria vertebralis ár. seb.",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "A bal arteria vertebralisban az áramlási sebesség a norm. érték alsó határának ... %-a.",
+        "Minta prefix" : "A bal arteria vertebralisban az áramlási sebesség a norm. érték alsó határának",
+        "Minta postfix" : "%-a.",
+        "Minta prefix hossza" : 79
+	},
+	{
+		"Sablon az.": "IDY8ARBA",
+		"Sablon szöveg megnevezés": "arteria basilaris áramlási seb. ",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "Az arteria basilarisban az áramlási sebesség a norm. érték alsó határának ... %-a.",
+        "Minta prefix" :"Az arteria basilarisban az áramlási sebesség a norm. érték alsó határának",
+        "Minta postfix" : "%-a.",
+        "Minta prefix hossza" : 74
+	},
+    {
+		"Sablon az.": "IMT",
+		"Sablon szöveg megnevezés": "",
+		"Sablon ktg": "",
+		"Sablon ktg. Megnevezés": "",
+        "Sablonsöveg": "IMT:",
+        "Minta prefix": "IMT",
+        "Minta prefix hossza": 4
+    }
+]
